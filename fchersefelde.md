@@ -1,6 +1,18 @@
-# FC Hersefelde
+# FC Hersefelde (DE)
 
-Vereinshistorie & Statistiken
+### Stadion 
+Hersefelder Spielwiese ( 7000 )
+
+### Challege 
++ Transferlimit 1mio.
++ Spieler dürfen abgeworben werden
+
+### Ziele 
++ langfristig Top Platzierung Liga 3 erreichen
++ Saison 22 -> Platz 1 bis 4 erreichen, möglichst Aufstieg schaffen
++ Saison 23 -> in Liga 3 Platz 10 bis 12 erreichen und einen Wiederabstieg verhindern
+
+### Vereinshistorie & Statistiken
 
 Saison | Liga | Pl | Pkt | T+ | T- | TD | Tore | | Vorb | | Zwk | | Zugänge | Abgänge | Karriereende | Saison  
 ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|:--- | ---:|:--- | --- | --- | --- | --- | --- | ---
