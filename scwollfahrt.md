@@ -1,6 +1,19 @@
 # SC Wollfahrt (AT)
 
-Vereinshistorie & Statistiken
+### Stadion
+Tal der Tränen ( 5000 )
+
+### Challenge 
++ nur Spieler mit negativen Eigenschaften ( Hässlich, ewiger Patient, ... ) dürfen erworben werden, kein Transferlimit
++ Spieler ohne negativen Eigenschaften nur bis zu einem Transfervolumen von 500k
++ es dürfen keine Spieler abgeworben werden
+
+### Ziele
++ langfristig Liga 2 etablieren
++ Saison 22 -> Platz 4-6 erreichen
++ Saison 23 -> Platz 1-3 erreichen und in Liga 2 aufsteigen
+
+### Vereinshistorie & Statistiken
 
 Saison | Liga | Pl | Pkt | T+ | T- | TD | Tore | | Vorb | | Zwk | | Zugänge | Abgänge | Karriereende | Saison  
 ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|:--- | ---:|:--- | --- | --- | --- | --- | --- | ---
