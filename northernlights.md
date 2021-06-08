@@ -1,7 +1,7 @@
 # Northern Lights (EN)
 
 ### Stadion
-Lunatic Space ( 1000 Plätze )
+Green Lagoon ( 1000 Plätze )
 
 ### Challenge 
 + Herkunft Polarkreis / NOR / SWE / FIN / RUS / ISL / CAN
@@ -12,6 +12,7 @@ Lunatic Space ( 1000 Plätze )
 ### Ziele
 + langfristig Liga 2 erreichen und sich darin etablieren
 + Saison 22 -> erste Saison zur Eingewöhnung
++ Saison 23 -> Platz 4-6 erreichen
 
 ### Vereinshistorie & Statistiken
 
