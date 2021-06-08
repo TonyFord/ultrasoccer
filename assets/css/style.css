@@ -277,6 +277,7 @@ footer {
 .ultra tr td:nth-child(3),
 .ultra tr td:nth-child(4),
 .ultra tr td:nth-child(5),
-.ultra tr td:nth-child(6) {
+.ultra tr td:nth-child(6),
+.ultra tr td:nth-child(7) {
   text-align: right;
 }
