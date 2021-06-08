@@ -281,3 +281,7 @@ footer {
 .ultra tr td:nth-child(7) {
   text-align: right;
 }
+
+.ultra {
+  width: 1500px;
+}
