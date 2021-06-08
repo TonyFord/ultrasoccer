@@ -1,6 +1,19 @@
 # Northern Lights (EN)
 
-Vereinshistorie & Statistiken
+### Stadion
+Lunatic Space ( 1000 Plätze )
+
+### Challenge 
++ Herkunft Polarkreis / NOR / SWE / FIN / RUS / ISL / CAN
++ mind. 3 Spieler mit dieser Herkunft
++ Transfers nur mit dieser Herkunft, kein Transferlimit
++ Abwerben ist zulässig
+
+### Ziele
++ langfristig Liga 2 erreichen und sich darin etablieren
++ Saison 22 -> erste Saison zur Eingewöhnung
+
+### Vereinshistorie & Statistiken
 
 Saison | Liga | Pl | Pkt | T+ | T- | TD | Tore | | Vorb | | Zwk | | Zugänge | Abgänge | Karriereende | Saison  
 ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|:--- | ---:|:--- | --- | --- | --- | --- | --- | ---
