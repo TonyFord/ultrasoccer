@@ -1,6 +1,19 @@
 # Arcturus Solaris (CH)
 
-Vereinshistorie & Statistiken
+### Stadion
+Lunatic Space ( 8000 )
+
+### Challenge
++ neue Spieler nur aus eigener Jugend
++ Ausnahme bei abgeworbenen Spielern, in diesem Falle darf ein gleichwertiger Spieler zum gleichen oder geringeren Betrag erworben werden
++ kein Abwerben
+
+### Ziele 
++ langfristig in Liga 2 etablieren
++ Saison 22 -> in Liga 3 absteigen und auf niedrigerem Level neu aufbauen
++ Saison 23 -> Platz 4/5 in Liga 3 erreichen
+
+### Vereinshistorie & Statistiken
 
 Saison | Liga | Pl | Pkt | T+ | T- | TD | Tore | | Vorb | | Zwk | | Zugänge | Abgänge | Karriereende | Saison  
 ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|:--- | ---:|:--- | --- | --- | --- | --- | --- | ---
