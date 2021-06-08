@@ -285,3 +285,7 @@ footer {
 .ultra {
   width: 1500px;
 }
+
+.ultra td {
+  vertical-align: top;
+}
